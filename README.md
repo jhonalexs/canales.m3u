@@ -448,3 +448,130 @@ http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwRihijibIKaTCATrRpSKXSUQTVccrv
 
 #EXTINF:-1 xui-id="117669" tvg-id="TLNOVLE" tvg-name="TL NOVELAS" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgLhHkGQR8Gy9PbYlZzIhssMNla11-hWcrgRdeDO48quw.png" group-title="MEXICO",TL NOVELAS
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwQKsVkAaXJ-CwRr1OHXLHGOthWjxsmUg0jwall3LF6Bg
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT: LAS ESTRELLAS HD" tvg-logo="" group-title="|LAT| LATIN",LAT: LAS ESTRELLAS HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120640
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT: CANAL DE LAS ESTRELLAS HD" tvg-logo="" group-title="|LAT| LATIN",LAT: CANAL DE LAS ESTRELLAS HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120641
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT: RCN TELENOVELAS" tvg-logo="" group-title="|LAT| LATIN",LAT: RCN TELENOVELAS
+http://k6.koalatv.xyz:8000/676031690663/35240174/120642
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT: PASIONES HD" tvg-logo="" group-title="|LAT| LATIN",LAT: PASIONES HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120643
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX PREMIUN SPORTS HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpHgawMKYUdz9uXH7cDj9YQ4c75B7N6hgjThcfhap4cczw5wlztnIYIoo7HHDzpz_sup9fYqPaxo5mSRnlIKa-qG-gdMcbPZFFvjSRpnJK4oA.png" group-title="|LAT| LATIN",ARG: FOX PREMIUN SPORTS HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120784
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1 HD" tvg-logo="http://tv4k.me:80/images/SkNCzoNAyMZcn15NTDff9NArF8mrrSzvh1_QU9jUkN4BtGeNx6TEDTZB7rgok-0AbPNroByRBS_ZsAci2o-qlFLQ2O3wN1cz0dAJ4--hX1C2Txwe6yTgfo-k2QjyOZFs.png" group-title="|LAT| LATIN",ARG: FOX SPORTS 1 HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120789
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A FOX SPORTS 2 HD" tvg-logo="http://tv4k.me:80/images/HJXwT3ywfize7XCHxTvOM6zAJWhyENlvE3PeZg1f05WrEDkMcFwvqliw_3SFyRFckaDQvgaLU9IdtAJrPtxSaV5IIv8dkAIfB77Ku-KDNH9h_ekUhFWjYPFBMdkghWkF.png" group-title="|LAT| LATIN",ARG: FOX SPORTS 2 HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120790
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3 HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9iNnxoR3-5lNm7aNJVlXbnBHLycALm79U5SWMctLQgaJuAiKu2q-9bJ0XtrlU3pzXd8PdvL-TlvRYkbB8REFeFumB5BVYTOhchgXcSTNZt0M.png" group-title="|LAT| LATIN",ARG: FOX SPORTS 3 HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120791
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 1 HD" tvg-logo="http://tv4k.me:80/images/Y4djXOhb-LFvkFLxhYZJG-BcUhOwvWXbVEE_bgHJUnxs66QbuyS-dktWPEOBzJHr3-wasQH8MCY66WNnw9ge66T1K9rpg_N8YWD7A2tiieQ.png" group-title="|LAT| LATIN",ARG: ESPN 1 HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120792
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2 HD" tvg-logo="http://tv4k.me:80/images/a68WXsCS8s59xDH32iAw6J0eCpci4wQn_4OqwpXUovn0-v8dllci0J-YeEhRe87w48OQikSQksrd-cA1IWTVQ5PmQH-_1XbTk0WD2LC88A6dCS48u7PGNTPFRnCCXRL5.png" group-title="|LAT| LATIN",ARG: ESPN 2 HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120793
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3 HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTqxsWXuhho6KCpxMrQtvaabcA8aWuzb3QfZItC6I7wM11RRM7pKmIVpr4H2RThpCA8.png" group-title="|LAT| LATIN",ARG: ESPN 3 HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120794
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PLUS HD" tvg-logo="http://tv4k.me:80/images/SkNCzoNAyMZcn15NTDff9MRyFPwO-VZ4KXPcd1aBLrMT1JiUH6T_iMNaeYNLEP6TwPS85ZOnsQ8hwgLeaTE1OmYXJnXL6CizIRSCnBKp-nY.png" group-title="|LAT| LATIN",ARG: ESPN PLUS HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120795
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2 HD" tvg-logo="http://tv4k.me:80/images/Qq69Mc_wxACXRQqpjHrHmQDyruiVmQj_UH_4qrU7GAHyhcS-7h0n16ZJK0t7n9ngGzepR2e3ummzJTYKvfG_7-GGhQ4JCAo07bTnllw_6Nd8Qi7hSybx7M_F64DafqKFkiiWkuocQuQNBsghAv6vRA.png" group-title="|LAT| LATIN",ARG: DIRECTV SPORTS 2 HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120796
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTrxhfMkHVaPlIrDJpnpwvzVXtEBItcNNybC_baqdq3bBsshQ3rblS-IKs7iJzKUfAuodmYw0LSZjVQqeYRB5i78.png" group-title="|LAT| LATIN",ARG: DIRECTV SPORTS HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120797
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS PLUS HD" tvg-logo="http://tv4k.me:80/images/pT4HPXe7d21jHH5_NtVS45hAqdFcaC960wvjUkMUwT8F9vqsekseO0H8uJjMIt_VAKRG41VHrcUsAD5hEUAnq3OAmfBmHcy9YlO1mY-jX5w_Go3Bge6PB-Uh1pIvcBaz.png" group-title="|LAT| LATIN",ARG: DIRECTV SPORTS PLUS HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120798
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: CANAL N" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpvCau0k0W80_eYQosP360up-NxTUmLe30nrJPOml7lAQ.png" group-title="|LAT| LATIN",PERU: CANAL N
+http://k6.koalatv.xyz:8000/676031690663/35240174/120918
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: ATV" tvg-logo="" group-title="|LAT| LATIN",PERU: ATV
+http://k6.koalatv.xyz:8000/676031690663/35240174/120919
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: RPP HD" tvg-logo="" group-title="|LAT| LATIN",PERU: RPP HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120920
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: GOL PERU" tvg-logo="http://tv4k.me:80/images/-oylaw_SQZspBfBfkZS5eFsBi_YzRKwP9qaZ035GfO2hU_2PQZ3ghGy8Drd1AVmWnvMGtE7A_mTP2a05qH4CvZDsVs53DdOrq6cuKZiEuizWlTzm5a5oKD__2s4FHgOvz6YM0OE_qPNWOQpxdt5cuQ.jpg" group-title="|LAT| LATIN",PERU: GOL PERU
+http://k6.koalatv.xyz:8000/676031690663/35240174/120921
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: WILLAX" tvg-logo="http://tv4k.me:80/images/-A2tRTxBW5s81sqzkIV8-ML1qrEIagXV8jHsWpfk-b1sMReEuIjmLI-LZB4xMuSrL1fAMEaI8SaY3va8---03w.jpg" group-title="|LAT| LATIN",PERU: WILLAX
+http://k6.koalatv.xyz:8000/676031690663/35240174/120922
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: TVPERÚ HD" tvg-logo="http://tv4k.me:80/images/tp3s3dC22ncqmlgfjkKYre1u6wslYC0dKAjTn02d21U.png" group-title="|LAT| LATIN",PERU: TVPERÚ HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120923
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: CULTURA 24" tvg-logo="http://tv4k.me:80/images/ZtzOoI-CFhdTg0Q_5SRea27Jk9s1zHi8QakTFMzQFAD-3Ep2_mae2dOvaHAAaU13Ioh5teEG9YTxc5t78SMGhnYaCsqi2izimpJbuEAgGc6io12qZ9SdvKUG7ivQtApUxShRSFEXFAfs5V2MwH3now.png" group-title="|LAT| LATIN",PERU: CULTURA 24
+http://k6.koalatv.xyz:8000/676031690663/35240174/120924
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: LATINA HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpZFDPCEYYFzYM2mkdtJLIOqAgtr4ACErQmM9Dmg4Qu_PVLwFxZB1brAyjfvodbjxrhwMaVdBIGKQHQyI_W6YEl.jpg" group-title="|LAT| LATIN",PERU: LATINA HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120925
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: AMERICA TV" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9cuUUwv6l5eNpo2t6eSoSpTumf-nYMRRTvDSUbfT22wncKTfDFNjjvQreHCgSFrr38rLhilwN4NLPE0g4Ft5N9vJWX5X152OSIzs2YjmqP7_wAfB_1EJUgy9lk5ZP9AyW.png" group-title="|LAT| LATIN",PERU: AMERICA TV
+http://k6.koalatv.xyz:8000/676031690663/35240174/120926
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: IPE" tvg-logo="http://tv4k.me:80/images/7ufw8nEj3crSBVIpUCO-hKlwy5x8L3t6JE4uLHR8RbnMLT5NemQIzOZ1VlGJzTxeEps7P0wbmtgrFEXY4vQyWw.jpg" group-title="|LAT| LATIN",PERU: IPE
+http://k6.koalatv.xyz:8000/676031690663/35240174/120927
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: EXITOSA TV" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpZFDPCEYYFzYM2mkdtJLIOAC6_NaaBqrM8z7lXQDkjFaUPHYhXKAPdNpBN_kSE2DY.png" group-title="|LAT| LATIN",PERU: EXITOSA TV
+http://k6.koalatv.xyz:8000/676031690663/35240174/120928
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: PANAMERICANA HD" tvg-logo="http://tv4k.me:80/images/jPzqrKhd4jmaC4zbSKNvuWeznpaE72mvl57cUvGkwyLUfMv0cZCNIouU33d9WxWW3k64xhPwb4cuFwk0g-jRPg.png" group-title="|LAT| LATIN",PERU: PANAMERICANA HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120929
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: PERU MAGICO" tvg-logo="http://tv4k.me:80/images/wv59GCWS-Tlh9rtmuRBxUdo3YUrRtalVLHrYbJa77i0jtHoWYKm2k8YOo8nolo9XNzMryLG2lwvfg8ewd8fq5R6vVe2RyMkEZefFca_rMuM.jpg" group-title="|LAT| LATIN",PERU: PERU MAGICO
+http://k6.koalatv.xyz:8000/676031690663/35240174/120930
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: GLOBAL" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTqWhwoEdKP1kjCcl7YPrw6ictfQfgcqo5IYRJ6am0-CYVuO9GIXIO6-EPM48WkcbZs.png" group-title="|LAT| LATIN",PERU: GLOBAL
+http://k6.koalatv.xyz:8000/676031690663/35240174/120931
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: AMERICA TV HD" tvg-logo="http://tv4k.me:80/images/sOUpYqdoU4QyD0G21q-CNUhywia2tOw3dtZs9TzpQlLN_YJzGRRj8gl--6g5Mv4liRFrIV4vlU3BmsyRld1OIMBze-FKV2ZH3XGTq5L1xxGIa5ZmPyCAeRxjrLbsgl3s.png" group-title="|LAT| LATIN",PERU: AMERICA TV HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120932
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: MOVISTAR DEPORTE" tvg-logo="http://tv4k.me:80/images/tF-IAA9gdYmPO6pCSyKUzmIOQA9ycVBnmr0Jbai9_D3RTX_pCxx7rP7Mi7H8XF8LxR_tNIFqHIOXSYYeVvXg54TAwZCLxg1ns9YMPX2tnx7M3N6NVVZHgt5KhUTK3U1t.png" group-title="|LAT| LATIN",PERU: MOVISTAR DEPORTE
+http://k6.koalatv.xyz:8000/676031690663/35240174/120933
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PR: TELEMUNDO (PR)" tvg-logo="" group-title="|LAT| LATIN",PR: TELEMUNDO (PR)
+http://k6.koalatv.xyz:8000/676031690663/35240174/120934
