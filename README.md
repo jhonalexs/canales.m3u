@@ -52,10 +52,6 @@ http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwd0gZi05pIqxln1WhKBujA8
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwS9lwJfAgNQB9oiJvbTyYx0
 
 
-#EXTINF:-1 xui-id="93692" tvg-id="GolPeru.pe" tvg-name="PE | GOL Perú" tvg-logo="http://jumangis.com:2082/images/lO4I6ENDRiY1iG64O8qqg0HdsaJGy_qfb-BfRA7z3rQOo6TqFAfwWxqXlO91nCJcaOZNRuxN49slsp6ky7W0cIddB7-Qz-jVF1DypBdwrosgOguFPTZNfLi0PIt97z_aaQ-25BhlpXeZnxTv_9gQoTwftEeGRfu_D3eigF2Ga5w.png" group-title="PERU",PE | GOL Perú
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwahPxsAv4MgnsbwdVuRJNmg
-
-
 #EXTINF:-1 xui-id="93693" tvg-id="" tvg-name="PE | Directv Sports" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcG2t1vwIaaBSOLpmsTyiixLBBhxZ6pQkBMVGO3mG-m4ibFJMyD9_GZFpS-ZamJpi_w.jpg" group-title="PERU",PE | Directv Sports
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwUmuTm3Wy68bFxWVUoWcKTY
 
@@ -92,11 +88,11 @@ http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwZrN6XVhxwDVsLkCHfVLm2c
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwYMRT20yg8GhXb3weXe0YLU
 
 
-#EXTINF:-1 xui-id="28533" tvg-id="" tvg-name="SP: PE: Gol Peru FHD" tvg-logo="" group-title="PERU",SP: PE: Gol Peru FHD
+#EXTINF:-1 xui-id="28533" tvg-id="" tvg-name="SP: PE: Gol Peru FHD" tvg-logo="http://jumangis.com:2082/images/lO4I6ENDRiY1iG64O8qqg0HdsaJGy_qfb-BfRA7z3rQOo6TqFAfwWxqXlO91nCJcaOZNRuxN49slsp6ky7W0cIddB7-Qz-jVF1DypBdwrosgOguFPTZNfLi0PIt97z_aaQ-25BhlpXeZnxTv_9gQoTwftEeGRfu_D3eigF2Ga5w.png" group-title="PERU",SP: PE: Gol Peru FHD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwVWO6-VQ0SZL8_Dx4He21_I
 
 
-#EXTINF:-1 xui-id="28532" tvg-id="" tvg-name="SP: PE: Gol Peru HD" tvg-logo="" group-title="PERU",SP: PE: Gol Peru HD
+#EXTINF:-1 xui-id="28532" tvg-id="" tvg-name="SP: PE: Gol Peru HD" tvg-logo="http://jumangis.com:2082/images/lO4I6ENDRiY1iG64O8qqg0HdsaJGy_qfb-BfRA7z3rQOo6TqFAfwWxqXlO91nCJcaOZNRuxN49slsp6ky7W0cIddB7-Qz-jVF1DypBdwrosgOguFPTZNfLi0PIt97z_aaQ-25BhlpXeZnxTv_9gQoTwftEeGRfu_D3eigF2Ga5w.png" group-title="PERU",SP: PE: Gol Peru HD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwf8uuz6q4AEhlm9-wpGZqkM
 
 
