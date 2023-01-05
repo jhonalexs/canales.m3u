@@ -24,8 +24,8 @@ http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwehgvJlfURsn1tjwRR8Qv_Y
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwQREOahtwcV35hvSHXlSxBk
 
 
-#EXTINF:-1 xui-id="93680" tvg-id="CANALN" tvg-name="PE | Canal N HD" tvg-logo="http://jumangis.com:2082/images/tZ5iiNUXRu3kglf_VTKnQoTw-Ndcpr8B8tYeDn2Ksrqy8nrmYyp6KWyD0n4G04W2B2E2FY4R7yl3flyvkaDF-hXZuxZZVLT6zgKskOah48Q.png" group-title="PERU",PE | Canal N HD
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwZ71ODZQs3HkN3sp6JzlHhM
+#EXTINF:-1 tvg-id="" tvg-name="LAT DEPORTE: FOX SPORTS 1 HQ SUR" tvg-logo="" group-title="|LAT| LATIN",LAT DEPORTE: FOX SPORTS 1 HQ SUR
+http://k6.koalatv.xyz:8000/676031690663/35240174/120703
 
 
 #EXTINF:-1 xui-id="93681" tvg-id="" tvg-name="PE | RPP" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN009BGorSIiBM5Yzfp_IdafsVGMEr0kcpqX1FKMeuhHe8.png" group-title="PERU",PE | RPP
