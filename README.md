@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
 
 #EXTINF:-1 xui-id="93696" tvg-id="AMTVHDA" tvg-name="PE | América TV HD" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoBbg4Z_Ywbwr5U5BxjlujbAbxsH80lfKI-ZQ_aFXVVIg.png" group-title="PERU",PE | América TV HD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwScRls-53id3hyjfOqzRQ94
@@ -16,92 +14,118 @@ http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwXQKzUSJtiPmVL3UbMyykug
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwVGe5-1H88nd4ZzRuncMnJo
 
 
-#EXTINF:-1 xui-id="93678" tvg-id="" tvg-name="PE | Movistar Deportes" tvg-logo="https://pbs.twimg.com/profile_images/1259853726191321090/BXk05gei_400x400.jpg" group-title="PERU",PE | Movistar Deportes
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwehgvJlfURsn1tjwRR8Qv_Y
+
+#EXTINF:-1 xui-id="93702" tvg-id="PanamericanaTV.pe" tvg-name="PE | Panamericana HD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UXqhv4WHjE9zl3njNV3iUtHqnnOHEU41DIk_C7w_WTPA.png" group-title="PERU",PE | Panamericana HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwcEptbb9O8LHm8oor-l3qmc
 
 
-#EXTINF:-1 xui-id="93679" tvg-id="PanamericanaTV.pe" tvg-name="PE | Panamericana" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UXqhv4WHjE9zl3njNV3iUtHqnnOHEU41DIk_C7w_WTPA.png" group-title="PERU",PE | Panamericana
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwQREOahtwcV35hvSHXlSxBk
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT DEPORTE: FOX SPORTS 1 HQ SUR" tvg-logo="" group-title="|LAT| LATIN",LAT DEPORTE: FOX SPORTS 1 HQ SUR
-http://k6.koalatv.xyz:8000/676031690663/35240174/120703
-
-
-#EXTINF:-1 xui-id="93681" tvg-id="" tvg-name="PE | RPP" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN009BGorSIiBM5Yzfp_IdafsVGMEr0kcpqX1FKMeuhHe8.png" group-title="PERU",PE | RPP
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwWjzRqti9jgzjVSn65DDI4E
-
-
-#EXTINF:-1 xui-id="93684" tvg-id="TVPERU" tvg-name="PE | TV Perú" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjnUc7wy2oOxU4xuicEskmgRfzEOivJS6pGUHMbhyS5hsyss8WNGO5E1AWcuQGAgVy3aArZMDba6eB-tzDeT4CP5DkV5kFVW3K_msvGi2LxifKIZh2kUidDJgV2yLPNy9t8fto7nFYUFYUJHaYB71gMMmp1HbDOcYY8XGTI-WVP8U.png" group-title="PERU",PE | TV Perú
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwbOsjrPbCRvK-tAX3ng3Db0
-
-
-#EXTINF:-1 xui-id="93686" tvg-id="IPE" tvg-name="PE | Canal IPE" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8Ud0ntmcJwkUa3bD9CGXzWWM47dcZwAAITNgF0jRHZDLTu3TCoJx7H9U0bDL4_hLgG.png" group-title="PERU",PE | Canal IPE
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwYFUdCFf_3o4J9BM7b-G67Y
-
-
-#EXTINF:-1 xui-id="93687" tvg-id="PMAGIC" tvg-name="PE | Perú Mágico" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyBdBkAi3JImPibLpcyzmruL2Vx8y4myp9DLsEJdHOWahA.png" group-title="PERU",PE | Perú Mágico
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwZvQnNreZre9pxZHwHpT6TY
-
-
-#EXTINF:-1 xui-id="93689" tvg-id="13C.cl" tvg-name="PE | ATV" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfF6_vFYoB3DypzG2AHPNL0oOVwpdZsCGtKN9lBQy3P03WyFnQv_atswCcQjXeNrAJI.png" group-title="PERU",PE | ATV
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwbwmImsw3RJmLxe5qkGxvm4
+#EXTINF:-1 tvg-id="" tvg-name="PERU: TVPERÚ HD" tvg-logo="http://tv4k.me:80/images/tp3s3dC22ncqmlgfjkKYre1u6wslYC0dKAjTn02d21U.png" group-title="|LAT| LATIN",PERU: TVPERÚ HD
+http://k6.koalatv.xyz:8000/676031690663/35240174/120923
 
 
 #EXTINF:-1 xui-id="93690" tvg-id="TVNOTI" tvg-name="PE | TV Perú Noticias" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqLkr-Y8ZbH2Fqi0XVSpRY1MoQ61pxXOjQtPTCcIJwozw.png" group-title="PERU",PE | TV Perú Noticias
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwd0gZi05pIqxln1WhKBujA8
 
 
+#EXTINF:-1 xui-id="93681" tvg-id="" tvg-name="PE | RPP" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN009BGorSIiBM5Yzfp_IdafsVGMEr0kcpqX1FKMeuhHe8.png" group-title="PERU",PE | RPP
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwWjzRqti9jgzjVSn65DDI4E
+
+
 #EXTINF:-1 xui-id="93676" tvg-id="EXITOSA" tvg-name="PE | Exitosa" tvg-logo="http://jumangis.com:2082/images/qH5-dSy6GV1J0EHfxR-zYuibL3YxDPst_WAHu0AzLNiWvzSOzDCe1Y9KnWUi1xV7L1UhlNLRKk5XhudjztfVVapxnnRHQ1lBv1XuHHdekgeylBm6isF04-w0eUrXHIBe.png" group-title="PERU",PE | Exitosa
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwS9lwJfAgNQB9oiJvbTyYx0
 
 
-#EXTINF:-1 xui-id="93693" tvg-id="" tvg-name="PE | Directv Sports" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcG2t1vwIaaBSOLpmsTyiixLBBhxZ6pQkBMVGO3mG-m4ibFJMyD9_GZFpS-ZamJpi_w.jpg" group-title="PERU",PE | Directv Sports
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwUmuTm3Wy68bFxWVUoWcKTY
+#EXTINF:-1 xui-id="93686" tvg-id="IPE" tvg-name="PE | Canal IPE" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8Ud0ntmcJwkUa3bD9CGXzWWM47dcZwAAITNgF0jRHZDLTu3TCoJx7H9U0bDL4_hLgG.png" group-title="PERU",PE | Canal IPE
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwYFUdCFf_3o4J9BM7b-G67Y
 
 
-#EXTINF:-1 xui-id="93695" tvg-id="AMTV" tvg-name="PE | América TV" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoBbg4Z_Ywbwr5U5BxjlujbAbxsH80lfKI-ZQ_aFXVVIg.png" group-title="PERU",PE | América TV
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwXjWiF79EhmvGAAGgxorf0A
-
-
-#EXTINF:-1 xui-id="93697" tvg-id="MovistarDeportes.pe" tvg-name="PE | Movistar Deportes HD" tvg-logo="http://jumangis.com:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcGwZiEoVGI44dwfqTr0VxfCZTvf7EGP4VU2U6WZ3VrP2w81SGPoIKznFP1pUso1J14.jpg" group-title="PERU",PE | Movistar Deportes HD
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwZiSjKaDfW8q7IFKHK1jy_M
-
-
-#EXTINF:-1 xui-id="93698" tvg-id="FRLTDA" tvg-name="PE | Latina TV" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhjNDuRyU9vPWp9JKpOyOdRkXErrLqPE9KTqbn8c7sRN5Q.png" group-title="PERU",PE | Latina TV
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwXMUpELEywhyi0bU8BYjzfA
 
 
 #EXTINF:-1 xui-id="93699" tvg-id="WILLAXA" tvg-name="PE | WILLAX HD" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKoECe7HEgzRjHM98eQDiVCGOXVcQ1EPIgvZxL1KI52Cg.png" group-title="PERU",PE | WILLAX HD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwXFvUgP7WrSVrw9TMns_Amg
 
 
-#EXTINF:-1 xui-id="93701" tvg-id="Canal9Vica.hn" tvg-name="PE | Canal N" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RiRKDKy55HA8Y3TKnocjiEag.png" group-title="PERU",PE | Canal N
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwdiehgOfEE3raCN3l4IQe78
 
-
-#EXTINF:-1 xui-id="93702" tvg-id="PanamericanaTV.pe" tvg-name="PE | Panamericana HD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UXqhv4WHjE9zl3njNV3iUtHqnnOHEU41DIk_C7w_WTPA.png" group-title="PERU",PE | Panamericana HD
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwcEptbb9O8LHm8oor-l3qmc
 
 
 #EXTINF:-1 xui-id="93703" tvg-id="PERUHDA" tvg-name="PE | Tv Peru HD" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TPa94U9TQ9q80oD1-QqEMyxPooJi5YexSz_y4c1Ng07A.png" group-title="PERU",PE | Tv Peru HD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwZrN6XVhxwDVsLkCHfVLm2c
 
 
-#EXTINF:-1 xui-id="93704" tvg-id="MovistarPlus.pe" tvg-name="PE | Movistar Plus" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL2sBQA960yR9W6Y8FIKwRPpY6hi74S7BjENwMpF_twTvfAr6TDGI_MzOQzb0x9iXwk.jpg" group-title="PERU",PE | Movistar Plus
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwYMRT20yg8GhXb3weXe0YLU
-
-
 #EXTINF:-1 xui-id="28533" tvg-id="" tvg-name="SP: PE: Gol Peru FHD" tvg-logo="http://jumangis.com:2082/images/lO4I6ENDRiY1iG64O8qqg0HdsaJGy_qfb-BfRA7z3rQOo6TqFAfwWxqXlO91nCJcaOZNRuxN49slsp6ky7W0cIddB7-Qz-jVF1DypBdwrosgOguFPTZNfLi0PIt97z_aaQ-25BhlpXeZnxTv_9gQoTwftEeGRfu_D3eigF2Ga5w.png" group-title="PERU",SP: PE: Gol Peru FHD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwVWO6-VQ0SZL8_Dx4He21_I
 
 
-#EXTINF:-1 xui-id="28532" tvg-id="" tvg-name="SP: PE: Gol Peru HD" tvg-logo="http://jumangis.com:2082/images/lO4I6ENDRiY1iG64O8qqg0HdsaJGy_qfb-BfRA7z3rQOo6TqFAfwWxqXlO91nCJcaOZNRuxN49slsp6ky7W0cIddB7-Qz-jVF1DypBdwrosgOguFPTZNfLi0PIt97z_aaQ-25BhlpXeZnxTv_9gQoTwftEeGRfu_D3eigF2Ga5w.png" group-title="PERU",SP: PE: Gol Peru HD
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwf8uuz6q4AEhlm9-wpGZqkM
+#EXTINF:-1 xui-id="93704" tvg-id="MovistarPlus.pe" tvg-name="PE | Movistar Plus" tvg-logo="http://jumangis.com:2082/images/yk_P98e_s_KPv6EdhXcDiNOSyaKwutyhgKMfkm8mvL2sBQA960yR9W6Y8FIKwRPpY6hi74S7BjENwMpF_twTvfAr6TDGI_MzOQzb0x9iXwk.jpg" group-title="PERU",PE | Movistar Plus
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwYMRT20yg8GhXb3weXe0YLU
 
 
-#EXTINF:-1 xui-id="28530" tvg-id="" tvg-name="SP: PE: Movistar Deportes" tvg-logo="" group-title="PERU",SP: PE: Movistar Deportes
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwdyN50uky4WA9CeeQG6Md3s
+
+#EXTINF:-1 xui-id="93678" tvg-id="" tvg-name="PE | Movistar Deportes" tvg-logo="https://pbs.twimg.com/profile_images/1259853726191321090/BXk05gei_400x400.jpg" group-title="PERU",PE | Movistar Deportes
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwehgvJlfURsn1tjwRR8Qv_Y
+
+
+
+#EXTINF:-1 xui-id="117749" tvg-id="" tvg-name="MOVISTAR DEPORTES PERU FULL HD" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JIYZiWWr_QIg267BRC73HF9scoHzpm6Gk_FP1uUI2dxXnfx9FwjWd-8WiVlcupwywg.jpg" group-title="⚽️  DEPORTES LATINO",MOVISTAR DEPORTES PERU FULL HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwQzcD_gbdH_jx_HSK7UlkCAsLCk9USNCwxrg4QGQ3liF
+
+
+
+#EXTINF:-1 xui-id="157688" tvg-id="SPOPHD" tvg-name="DIRECTV SPORTS HD PERU" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGaqsFtPUoA8icIuTmIN5_jaFq_wSsKvpvVODY7qduD54aZpvELQ2UA6tt6rmMUNR58lWMAXJH24-UutVbUMvavCI.png" group-title="⚽️ DIRECTV SPORTS",DIRECTV SPORTS HD PERU
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwUdu_YjwdJ5cLCCURU1npIw_3hrvtDuOncPnQ6Ug4v5m
+
+
+
+#EXTINF:-1 xui-id="157689" tvg-id="" tvg-name="DIRECTV SPORT 2 HD PERU" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGasJdN2dd39LEwhwK79HaM8r4yKc8fGuW4WFSkBrHHieF6T2LaRhvLdS-5di57o3nO5zbPrTWIEEKe1glwWoGAnE.png" group-title="⚽️ DIRECTV SPORTS",DIRECTV SPORT 2 HD PERU
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwbHfElKpRIZcgrl-MbQitvZYANxCuz5oVu8BKE4UThri
+
+
+
+#EXTINF:-1 xui-id="157690" tvg-id="" tvg-name="DIRECTV SPORTS + HD PERU" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGanSDWc1CG9BmykjmZa6Eqty3d-VRbxW1a9yWbXNwywGdePavOwiIb2FHiVICoM_RAzuPTyFWDaCihBD2YR9c50A.png" group-title="⚽️ DIRECTV SPORTS",DIRECTV SPORTS + HD PERU
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwdDD2IRqIWfeg8HjzuGaGF-OUIU_9-jcbpnPMiRjukMn
+
+
+
+#EXTINF:-1 xui-id="157682" tvg-id="" tvg-name="DIRECTV SPORTS 2 HD ARG" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGasJdN2dd39LEwhwK79HaM8r4yKc8fGuW4WFSkBrHHieF6T2LaRhvLdS-5di57o3nO5zbPrTWIEEKe1glwWoGAnE.png" group-title="⚽️ DIRECTV SPORTS",DIRECTV SPORTS 2 HD ARG
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwVf4xTvvh_9azMbufb5lQ8PKEAQnerRVynN5UZE6pfrs
+
+
+
+#EXTINF:-1 xui-id="157683" tvg-id="" tvg-name="DIRECTV SPORTS + HD ARG" tvg-logo="http://jumangis.com:2082/images/wa0mvnaHp95dlQYAfUtGanSDWc1CG9BmykjmZa6Eqty3d-VRbxW1a9yWbXNwywGdePavOwiIb2FHiVICoM_RAzuPTyFWDaCihBD2YR9c50A.png" group-title="⚽️ DIRECTV SPORTS",DIRECTV SPORTS + HD ARG
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwaVXEkcrZUUp43VafsYqeLOpSAHPDHLDsrADWwjrI8pL
+
+
+#EXTINF:-1 xui-id="117727" tvg-id="FS2AR" tvg-name="FOX SPORTS ARGENTINA HD" tvg-logo="https://i.postimg.cc/nryQxyk5/fox-sport.jpg" group-title="⚽️  DEPORTES LATINO",FOX SPORTS ARGENTINA HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwf_cHG-DXVZhXTazfbnr-hLTKRal2pXdacjWjqY1rFu2
+
+
+#EXTINF:-1 xui-id="117728" tvg-id="FS2ARH2" tvg-name="FOX SPORTS 2 ARGENTINA HD" tvg-logo="https://i.postimg.cc/VkdNffvV/fox-sport-2.jpg" group-title="⚽️  DEPORTES LATINO",FOX SPORTS 2 ARGENTINA HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwRXQGDj58O7HVfUtVwT7Hc699mLxg7CMthgFa7HnNJdk
+
+
+#EXTINF:-1 xui-id="117729" tvg-id="FS2AR" tvg-name="FOX SPORTS 3 ARGENTINA HD" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JJtufBJ7qwGksnnoXRmHnGnlkdQWq-VmrSvHL7VpcYwm.jpg" group-title="⚽️  DEPORTES LATINO",FOX SPORTS 3 ARGENTINA HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwcxzdrVYhCv_BpUeQ87x00JsQV7Ks-KYDlw651bfric6
+
+
+#EXTINF:-1 xui-id="117730" tvg-id="" tvg-name="ESPN PREMIUM  ARGENTINA HD" tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="⚽️  DEPORTES LATINO",ESPN PREMIUM  ARGENTINA HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwZ0Psg0dk7rHszuPZnguODBj-PZlBgpg6DOeCGm2WUAy
+
+
+#EXTINF:-1 xui-id="117715" tvg-id="EPN2HAA" tvg-name="ESPN ARGENTINA HD" tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="⚽️  DEPORTES LATINO",ESPN ARGENTINA HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwS2InHXe-gkbjeG1HgyNnnQ59clN9CTZEAWlpOwyD7Z_
+
+
+#EXTINF:-1 xui-id="117716" tvg-id="EPN2HAA" tvg-name="ESPN 2 ARGENTINA HD" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JEyCOwceLAvHK_4fqA1So8Emt_Nvs_mEUnFQ-BGEZeR-.jpg" group-title="⚽️  DEPORTES LATINO",ESPN 2 ARGENTINA HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwYlgNaZ3ZBvgCRxvX-2EIx_LeG_V7nOVlh1O5431yWEH
+
+
+#EXTINF:-1 xui-id="117717" tvg-id="EPN2HAA" tvg-name="ESPN 3 HD" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JCnxRqNfVddT0Tz2Sxz_rGZZIDfz-w94IUBeVdvj-o0S.jpg" group-title="⚽️  DEPORTES LATINO",ESPN 3 HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwSDNdBO-nNJNoIugxf4bo-lY22dOtRffHG0NyMvlMQo5
+
+
+#EXTINF:-1 xui-id="117718" tvg-id="EPN2HAA" tvg-name="ESPN + ARGENTINA HD" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JEZNNVt8kvTCzv-RIHSRHklzyD0clqtpBM7p4z_iGPdF.jpg" group-title="⚽️  DEPORTES LATINO",ESPN + ARGENTINA HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwaANDfOBssGNerWROMopZzZuNlXIRfmkxfoiEgHLM4oV
+
 
 
 #EXTINF:-1 xui-id="29048" tvg-id="" tvg-name="Cine TV: A&E (CO)" tvg-logo="http://jumangis.com:2082/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjX5x84JY6cBD9kpLIVWaH_g.png" group-title="CINE Y SERIES",Cine TV: A&E (CO)
@@ -450,128 +474,17 @@ http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwRihijibIKaTCATrRpSKXSUQTVccrv
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwQKsVkAaXJ-CwRr1OHXLHGOthWjxsmUg0jwall3LF6Bg
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT: LAS ESTRELLAS HD" tvg-logo="" group-title="|LAT| LATIN",LAT: LAS ESTRELLAS HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120640
+#EXTINF:-1 xui-id="192718" tvg-id="" tvg-name="LAT: Telemundo Internacional FHD" tvg-logo="http://jumangis.com:2082/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzTFv90i1Xh3BnK9o0L_xlw2yA0PcoCVXWAbbegFIqRU52d_gyAQ8jr4ruMRptBlLM.png" group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION",LAT: Telemundo Internacional FHD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwYKZZM5jMXi3DE69OQrIYf9ncublOy8a8tPMCtZbBTmi
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT: CANAL DE LAS ESTRELLAS HD" tvg-logo="" group-title="|LAT| LATIN",LAT: CANAL DE LAS ESTRELLAS HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120641
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT: RCN TELENOVELAS" tvg-logo="" group-title="|LAT| LATIN",LAT: RCN TELENOVELAS
-http://k6.koalatv.xyz:8000/676031690663/35240174/120642
+#EXTINF:-1 xui-id="130945" tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JIw1Kd3uv9irfCdByX5g7YoZOp6S_R72SLrmbkqWaL4c.jpg" group-title="⚽️  DEPORTES LATINO",ESPN PREMIUM
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwVP5saNUNhEGUwGI3pSNxoqJhtiBaFy-v2RznWx7eSvq
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT: PASIONES HD" tvg-logo="" group-title="|LAT| LATIN",LAT: PASIONES HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120643
+#EXTINF:-1 xui-id="154295" tvg-id="FSPREMA" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUDKXu0HoXGao9N9I3XfKzQwYLBSF2MXTSJAIpeAqc7zSSujvpM9ZrfmjRsC1Sc7Tb3f6bfxL2nK31pgiPVTetv.png" group-title="⚽️  DEPORTES LATINO",FOX SPORTS PREMIUM
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwdB6ru2bEzrCqSioZF8a4Vh7e6GKBN0HghTuxlMVUSSV
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX PREMIUN SPORTS HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpHgawMKYUdz9uXH7cDj9YQ4c75B7N6hgjThcfhap4cczw5wlztnIYIoo7HHDzpz_sup9fYqPaxo5mSRnlIKa-qG-gdMcbPZFFvjSRpnJK4oA.png" group-title="|LAT| LATIN",ARG: FOX PREMIUN SPORTS HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120784
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1 HD" tvg-logo="http://tv4k.me:80/images/SkNCzoNAyMZcn15NTDff9NArF8mrrSzvh1_QU9jUkN4BtGeNx6TEDTZB7rgok-0AbPNroByRBS_ZsAci2o-qlFLQ2O3wN1cz0dAJ4--hX1C2Txwe6yTgfo-k2QjyOZFs.png" group-title="|LAT| LATIN",ARG: FOX SPORTS 1 HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120789
-
-
-#EXTINF:-1 tvg-id="" tvg-name="A FOX SPORTS 2 HD" tvg-logo="http://tv4k.me:80/images/HJXwT3ywfize7XCHxTvOM6zAJWhyENlvE3PeZg1f05WrEDkMcFwvqliw_3SFyRFckaDQvgaLU9IdtAJrPtxSaV5IIv8dkAIfB77Ku-KDNH9h_ekUhFWjYPFBMdkghWkF.png" group-title="|LAT| LATIN",ARG: FOX SPORTS 2 HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120790
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3 HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9iNnxoR3-5lNm7aNJVlXbnBHLycALm79U5SWMctLQgaJuAiKu2q-9bJ0XtrlU3pzXd8PdvL-TlvRYkbB8REFeFumB5BVYTOhchgXcSTNZt0M.png" group-title="|LAT| LATIN",ARG: FOX SPORTS 3 HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120791
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 1 HD" tvg-logo="http://tv4k.me:80/images/Y4djXOhb-LFvkFLxhYZJG-BcUhOwvWXbVEE_bgHJUnxs66QbuyS-dktWPEOBzJHr3-wasQH8MCY66WNnw9ge66T1K9rpg_N8YWD7A2tiieQ.png" group-title="|LAT| LATIN",ARG: ESPN 1 HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120792
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2 HD" tvg-logo="http://tv4k.me:80/images/a68WXsCS8s59xDH32iAw6J0eCpci4wQn_4OqwpXUovn0-v8dllci0J-YeEhRe87w48OQikSQksrd-cA1IWTVQ5PmQH-_1XbTk0WD2LC88A6dCS48u7PGNTPFRnCCXRL5.png" group-title="|LAT| LATIN",ARG: ESPN 2 HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120793
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3 HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTqxsWXuhho6KCpxMrQtvaabcA8aWuzb3QfZItC6I7wM11RRM7pKmIVpr4H2RThpCA8.png" group-title="|LAT| LATIN",ARG: ESPN 3 HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120794
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PLUS HD" tvg-logo="http://tv4k.me:80/images/SkNCzoNAyMZcn15NTDff9MRyFPwO-VZ4KXPcd1aBLrMT1JiUH6T_iMNaeYNLEP6TwPS85ZOnsQ8hwgLeaTE1OmYXJnXL6CizIRSCnBKp-nY.png" group-title="|LAT| LATIN",ARG: ESPN PLUS HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120795
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2 HD" tvg-logo="http://tv4k.me:80/images/Qq69Mc_wxACXRQqpjHrHmQDyruiVmQj_UH_4qrU7GAHyhcS-7h0n16ZJK0t7n9ngGzepR2e3ummzJTYKvfG_7-GGhQ4JCAo07bTnllw_6Nd8Qi7hSybx7M_F64DafqKFkiiWkuocQuQNBsghAv6vRA.png" group-title="|LAT| LATIN",ARG: DIRECTV SPORTS 2 HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120796
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTrxhfMkHVaPlIrDJpnpwvzVXtEBItcNNybC_baqdq3bBsshQ3rblS-IKs7iJzKUfAuodmYw0LSZjVQqeYRB5i78.png" group-title="|LAT| LATIN",ARG: DIRECTV SPORTS HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120797
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS PLUS HD" tvg-logo="http://tv4k.me:80/images/pT4HPXe7d21jHH5_NtVS45hAqdFcaC960wvjUkMUwT8F9vqsekseO0H8uJjMIt_VAKRG41VHrcUsAD5hEUAnq3OAmfBmHcy9YlO1mY-jX5w_Go3Bge6PB-Uh1pIvcBaz.png" group-title="|LAT| LATIN",ARG: DIRECTV SPORTS PLUS HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120798
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: CANAL N" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpvCau0k0W80_eYQosP360up-NxTUmLe30nrJPOml7lAQ.png" group-title="|LAT| LATIN",PERU: CANAL N
-http://k6.koalatv.xyz:8000/676031690663/35240174/120918
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: ATV" tvg-logo="" group-title="|LAT| LATIN",PERU: ATV
-http://k6.koalatv.xyz:8000/676031690663/35240174/120919
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: RPP HD" tvg-logo="" group-title="|LAT| LATIN",PERU: RPP HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120920
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: GOL PERU" tvg-logo="http://tv4k.me:80/images/-oylaw_SQZspBfBfkZS5eFsBi_YzRKwP9qaZ035GfO2hU_2PQZ3ghGy8Drd1AVmWnvMGtE7A_mTP2a05qH4CvZDsVs53DdOrq6cuKZiEuizWlTzm5a5oKD__2s4FHgOvz6YM0OE_qPNWOQpxdt5cuQ.jpg" group-title="|LAT| LATIN",PERU: GOL PERU
-http://k6.koalatv.xyz:8000/676031690663/35240174/120921
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: WILLAX" tvg-logo="http://tv4k.me:80/images/-A2tRTxBW5s81sqzkIV8-ML1qrEIagXV8jHsWpfk-b1sMReEuIjmLI-LZB4xMuSrL1fAMEaI8SaY3va8---03w.jpg" group-title="|LAT| LATIN",PERU: WILLAX
-http://k6.koalatv.xyz:8000/676031690663/35240174/120922
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: TVPERÚ HD" tvg-logo="http://tv4k.me:80/images/tp3s3dC22ncqmlgfjkKYre1u6wslYC0dKAjTn02d21U.png" group-title="|LAT| LATIN",PERU: TVPERÚ HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120923
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: CULTURA 24" tvg-logo="http://tv4k.me:80/images/ZtzOoI-CFhdTg0Q_5SRea27Jk9s1zHi8QakTFMzQFAD-3Ep2_mae2dOvaHAAaU13Ioh5teEG9YTxc5t78SMGhnYaCsqi2izimpJbuEAgGc6io12qZ9SdvKUG7ivQtApUxShRSFEXFAfs5V2MwH3now.png" group-title="|LAT| LATIN",PERU: CULTURA 24
-http://k6.koalatv.xyz:8000/676031690663/35240174/120924
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: LATINA HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpZFDPCEYYFzYM2mkdtJLIOqAgtr4ACErQmM9Dmg4Qu_PVLwFxZB1brAyjfvodbjxrhwMaVdBIGKQHQyI_W6YEl.jpg" group-title="|LAT| LATIN",PERU: LATINA HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120925
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: AMERICA TV" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9cuUUwv6l5eNpo2t6eSoSpTumf-nYMRRTvDSUbfT22wncKTfDFNjjvQreHCgSFrr38rLhilwN4NLPE0g4Ft5N9vJWX5X152OSIzs2YjmqP7_wAfB_1EJUgy9lk5ZP9AyW.png" group-title="|LAT| LATIN",PERU: AMERICA TV
-http://k6.koalatv.xyz:8000/676031690663/35240174/120926
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: IPE" tvg-logo="http://tv4k.me:80/images/7ufw8nEj3crSBVIpUCO-hKlwy5x8L3t6JE4uLHR8RbnMLT5NemQIzOZ1VlGJzTxeEps7P0wbmtgrFEXY4vQyWw.jpg" group-title="|LAT| LATIN",PERU: IPE
-http://k6.koalatv.xyz:8000/676031690663/35240174/120927
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: EXITOSA TV" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpZFDPCEYYFzYM2mkdtJLIOAC6_NaaBqrM8z7lXQDkjFaUPHYhXKAPdNpBN_kSE2DY.png" group-title="|LAT| LATIN",PERU: EXITOSA TV
-http://k6.koalatv.xyz:8000/676031690663/35240174/120928
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: PANAMERICANA HD" tvg-logo="http://tv4k.me:80/images/jPzqrKhd4jmaC4zbSKNvuWeznpaE72mvl57cUvGkwyLUfMv0cZCNIouU33d9WxWW3k64xhPwb4cuFwk0g-jRPg.png" group-title="|LAT| LATIN",PERU: PANAMERICANA HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120929
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: PERU MAGICO" tvg-logo="http://tv4k.me:80/images/wv59GCWS-Tlh9rtmuRBxUdo3YUrRtalVLHrYbJa77i0jtHoWYKm2k8YOo8nolo9XNzMryLG2lwvfg8ewd8fq5R6vVe2RyMkEZefFca_rMuM.jpg" group-title="|LAT| LATIN",PERU: PERU MAGICO
-http://k6.koalatv.xyz:8000/676031690663/35240174/120930
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: GLOBAL" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTqWhwoEdKP1kjCcl7YPrw6ictfQfgcqo5IYRJ6am0-CYVuO9GIXIO6-EPM48WkcbZs.png" group-title="|LAT| LATIN",PERU: GLOBAL
-http://k6.koalatv.xyz:8000/676031690663/35240174/120931
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: AMERICA TV HD" tvg-logo="http://tv4k.me:80/images/sOUpYqdoU4QyD0G21q-CNUhywia2tOw3dtZs9TzpQlLN_YJzGRRj8gl--6g5Mv4liRFrIV4vlU3BmsyRld1OIMBze-FKV2ZH3XGTq5L1xxGIa5ZmPyCAeRxjrLbsgl3s.png" group-title="|LAT| LATIN",PERU: AMERICA TV HD
-http://k6.koalatv.xyz:8000/676031690663/35240174/120932
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU: MOVISTAR DEPORTE" tvg-logo="http://tv4k.me:80/images/tF-IAA9gdYmPO6pCSyKUzmIOQA9ycVBnmr0Jbai9_D3RTX_pCxx7rP7Mi7H8XF8LxR_tNIFqHIOXSYYeVvXg54TAwZCLxg1ns9YMPX2tnx7M3N6NVVZHgt5KhUTK3U1t.png" group-title="|LAT| LATIN",PERU: MOVISTAR DEPORTE
-http://k6.koalatv.xyz:8000/676031690663/35240174/120933
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PR: TELEMUNDO (PR)" tvg-logo="" group-title="|LAT| LATIN",PR: TELEMUNDO (PR)
-http://k6.koalatv.xyz:8000/676031690663/35240174/120934
